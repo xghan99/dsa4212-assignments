@@ -11,3 +11,7 @@ The goal of this assignment is to build a recommender system that can correctly 
 
 Libraries Used: Numpy, Jax, Jaxopt
 
+## Word Embeddings
+The goal of this assignment is to build word embeddings from scratch, without the use of libraries such as Gensim or FastText. We explored the use of Continuous Bag-of-Words and Skip-gram to train word embeddings from a text dataset consisting of highlights from CNN and DailyMail (https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail).
+
+Libraries Used: Pandas, Jax
